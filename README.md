@@ -1,5 +1,6 @@
 # Algorithm
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) 手把手撕LeetCode题目，扒各种算法套路的裤子。
+- [azl397985856/leetcode](https://github.com/azl397985856/leetcode) LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) https://leetcode-solution.cn/
 - [wangzheng0822/algo](https://github.com/wangzheng0822/algo)数据结构和算法必知必会的50个代码实现
 - [hzwer/shareOI](https://github.com/hzwer/shareOI) 算法竞赛课件分享
 
