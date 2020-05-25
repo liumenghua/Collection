@@ -47,5 +47,8 @@
 ## Cache
 - [ibireme/YYCache](https://github.com/ibireme/YYCache) High performance cache framework for iOS.
 
+## Decrypting
+- [KJCracks/Clutch](https://github.com/KJCracks/Clutch) Fast iOS executable dumper
+
 # Just funning and useful
 - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)程序员应该访问的最佳网站中文版
