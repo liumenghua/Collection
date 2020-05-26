@@ -59,6 +59,9 @@
 ## Decrypting
 - [KJCracks/Clutch](https://github.com/KJCracks/Clutch) Fast iOS executable dumper
 
+## Swift
+- [SnapKit/SnapKit](https://github.com/SnapKit/SnapKit) A Swift Autolayout DSL for iOS & OS X http://snapkit.io
+
 # Just funning and useful
 - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)程序员应该访问的最佳网站中文版
 
