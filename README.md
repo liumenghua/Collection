@@ -22,6 +22,7 @@
 - [qianguyihao/Web](https://github.com/qianguyihao/Web) 前端入门和进阶学习笔记，超详细的Web前端学习图文教程。从零开始学前端，做一名精致的前端工程师。持续更新...
 
 # iOS Projects
+- [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects http://awesomeios.com
 - [Tim9Liu9/TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS#%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AAIOS%E5%BC%80%E5%8F%91) iOS开发常用三方库、插件、知名博客等等
 
 - [Tencent/OOMDetector](https://github.com/Tencent/OOMDetector) OOMDetector is a memory monitoring component for iOS which provides you with OOM monitoring, memory allocation monitoring, memory leak detection and other functions.
