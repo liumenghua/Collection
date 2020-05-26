@@ -33,7 +33,12 @@
 - [huanxsd/LinkMap](https://github.com/huanxsd/LinkMap) 检查每个类占用空间大小工具
 - [path/FastImageCache](https://github.com/path/FastImageCache) iOS library for quickly displaying images while scrolling
 - [SatanWoo/TrampolineHook](https://github.com/SatanWoo/TrampolineHook) A solution for centralized method redirection
+
+## Debug
 - [didi/echo](https://github.com/didi/echo) Echo是一款桌面端调试工具，旨在提高客户端的研发调试效率
+- [didi/DoraemonKit](https://github.com/didi/DoraemonKit) A full-featured App (iOS & Android) development assistant. You deserve it. 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。https://www.dokit.cn/
+- [TalkingData/YourView](https://github.com/TalkingData/YourView) YourView is a desktop App in MacOS based on Apple SceneKit. You may use it to view iOS App's view hierarchy 3D.
+- [Tencent/MLeaksFinder](https://github.com/Tencent/MLeaksFinder) Find memory leaks in your iOS app at develop time.
 
 ## Keyboard
 - [hackiftekhar/IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.
