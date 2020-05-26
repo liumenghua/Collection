@@ -39,6 +39,7 @@
 - [didi/DoraemonKit](https://github.com/didi/DoraemonKit) A full-featured App (iOS & Android) development assistant. You deserve it. 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。https://www.dokit.cn/
 - [TalkingData/YourView](https://github.com/TalkingData/YourView) YourView is a desktop App in MacOS based on Apple SceneKit. You may use it to view iOS App's view hierarchy 3D.
 - [Tencent/MLeaksFinder](https://github.com/Tencent/MLeaksFinder) Find memory leaks in your iOS app at develop time.
+- [facebook/FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) iOS library to help detecting retain cycles in runtime.
 
 ## Keyboard
 - [hackiftekhar/IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.
