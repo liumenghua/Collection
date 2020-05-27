@@ -43,6 +43,9 @@
 - [facebook/FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) iOS library to help detecting retain cycles in runtime.
 - [johnno1962/injectionforxcode](https://github.com/johnno1962/injectionforxcode) Runtime Code Injection for Objective-C & Swift
 
+## runtime
+- [jasenhuang/NSObjectSafe](https://github.com/jasenhuang/NSObjectSafe) Swizzle commonly used function of Foundation container to prevent nil crash
+
 ## Keyboard
 - [hackiftekhar/IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.
 
