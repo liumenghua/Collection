@@ -65,6 +65,9 @@
 ## Decrypting
 - [KJCracks/Clutch](https://github.com/KJCracks/Clutch) Fast iOS executable dumper
 
+## Interview
+- [colourful987/bytedance-alibaba-interview](https://github.com/colourful987/bytedance-alibaba-interview) 阿里、字节 一套高效的iOS面试题解答
+
 ## Swift
 - [SnapKit/SnapKit](https://github.com/SnapKit/SnapKit) A Swift Autolayout DSL for iOS & OS X http://snapkit.io
 - [pointfreeco/swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testing) 📸 Delightful Swift snapshot testing. https://www.pointfree.co/episodes/ep4…
