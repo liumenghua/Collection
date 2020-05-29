@@ -74,6 +74,7 @@
 - [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. https://www.pointfree.co/
 - [andreamazz/BubbleTransition](https://github.com/andreamazz/BubbleTransition) A custom modal transition that presents and dismiss a controller with an expanding bubble effect.
 - [andreamazz/AMPopTip](https://github.com/andreamazz/AMPopTip) An animated popover that pops out a given frame, great for subtle UI tips and onboarding.
+- [CosmicMind/Material](https://github.com/CosmicMind/Material) A UI/UX framework for creating beautiful applications. http://cosmicmind.com
 
 # Just funning and useful
 - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)程序员应该访问的最佳网站中文版
