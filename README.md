@@ -69,6 +69,7 @@
 - [colourful987/bytedance-alibaba-interview](https://github.com/colourful987/bytedance-alibaba-interview) 阿里、字节 一套高效的iOS面试题解答
 
 ## Swift
+- [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [SnapKit/SnapKit](https://github.com/SnapKit/SnapKit) A Swift Autolayout DSL for iOS & OS X http://snapkit.io
 - [pointfreeco/swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testing) 📸 Delightful Swift snapshot testing. https://www.pointfree.co/episodes/ep4…
 - [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. https://www.pointfree.co/
