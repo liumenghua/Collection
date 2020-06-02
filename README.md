@@ -7,6 +7,7 @@
 # Document translation
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台
 - [objccn/articles](https://github.com/objccn/articles) Articles for objccn.io. objc.io的完整、准确、优雅的中文翻译版本
+- [SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) 中文版 Apple 官方 Swift 教程《The Swift Programming Language》 https://swiftgg.gitbook.io/swift/
 
 # CS 
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++ 
