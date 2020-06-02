@@ -14,6 +14,7 @@
 # Git
 - [geeeeeeeeek/git-recipes](https://github.com/geeeeeeeeek/git-recipes) Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程. 
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) Flight rules for git
+- [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) An interactive git visualization to challenge and educate! https://pcottle.github.com/learnGitBr…
 
 # JavaScript
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) Create and share beautiful images of your source code
