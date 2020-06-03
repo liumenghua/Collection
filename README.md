@@ -48,6 +48,7 @@
 - [Tencent/MLeaksFinder](https://github.com/Tencent/MLeaksFinder) Find memory leaks in your iOS app at develop time.
 - [facebook/FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) iOS library to help detecting retain cycles in runtime.
 - [johnno1962/injectionforxcode](https://github.com/johnno1962/injectionforxcode) Runtime Code Injection for Objective-C & Swift
+- [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) A fast & simple, yet powerful & flexible logging framework for Mac and iOS https://cocoalumberjack.github.io/
 
 ## runtime
 - [jasenhuang/NSObjectSafe](https://github.com/jasenhuang/NSObjectSafe) Swizzle commonly used function of Foundation container to prevent nil crash
