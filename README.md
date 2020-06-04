@@ -41,6 +41,7 @@
 - [huanxsd/LinkMap](https://github.com/huanxsd/LinkMap) 检查每个类占用空间大小工具
 - [path/FastImageCache](https://github.com/path/FastImageCache) iOS library for quickly displaying images while scrolling
 - [SatanWoo/TrampolineHook](https://github.com/SatanWoo/TrampolineHook) A solution for centralized method redirection
+- [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage) Asynchronous image downloader with cache support as a UIImageView category https://sdwebimage.github.io
 
 ## Debug
 - [didi/echo](https://github.com/didi/echo) Echo是一款桌面端调试工具，旨在提高客户端的研发调试效率
