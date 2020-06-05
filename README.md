@@ -51,6 +51,7 @@
 - [facebook/FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) iOS library to help detecting retain cycles in runtime.
 - [johnno1962/injectionforxcode](https://github.com/johnno1962/injectionforxcode) Runtime Code Injection for Objective-C & Swift
 - [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) A fast & simple, yet powerful & flexible logging framework for Mac and iOS https://cocoalumberjack.github.io/
+- [erikdoe/ocmock](https://github.com/erikdoe/ocmock) Mock objects for Objective-C http://ocmock.org
 
 ## runtime
 - [jasenhuang/NSObjectSafe](https://github.com/jasenhuang/NSObjectSafe) Swizzle commonly used function of Foundation container to prevent nil crash
