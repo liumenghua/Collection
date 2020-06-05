@@ -86,6 +86,7 @@
 - [Nirma/UIFontComplete](https://github.com/Nirma/UIFontComplete) Font management (System & Custom) for iOS and tvOS
 - [linkedin/LayoutKit](https://github.com/linkedin/LayoutKit) LayoutKit is a fast view layout library for iOS, macOS, and tvOS. http://layoutkit.org
 - [Orderella/PopupDialog](https://github.com/Orderella/PopupDialog) A simple, customizable popup dialog for iOS written in Swift. Replaces UIAlertController alert style. http://www.mwfire.de
+- [willowtreeapps/spruce-ios](https://github.com/willowtreeapps/spruce-ios) Swift library for choreographing animations on the screen.
 
 # Just funning and useful
 - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)程序员应该访问的最佳网站中文版
