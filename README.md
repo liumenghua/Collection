@@ -90,6 +90,7 @@
 - [Orderella/PopupDialog](https://github.com/Orderella/PopupDialog) A simple, customizable popup dialog for iOS written in Swift. Replaces UIAlertController alert style. http://www.mwfire.de
 - [willowtreeapps/spruce-ios](https://github.com/willowtreeapps/spruce-ios) Swift library for choreographing animations on the screen.
 - [evnaz/ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) A simple side menu for iOS written in Swift. 
+- [steipete/InterposeKit](https://github.com/steipete/InterposeKit) A modern library to swizzle elegantly in Swift. https://interposekit.com/
 
 # Just funning and useful
 - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)程序员应该访问的最佳网站中文版
