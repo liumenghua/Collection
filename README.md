@@ -65,6 +65,7 @@
 - [ibireme/YYText](https://github.com/ibireme/YYText)Powerful text framework for iOS to display and edit rich text.
 - [jdg/MBProgressHUD](https://github.com/jdg/MBProgressHUD)MBProgressHUD + Customizations http://www.bukovinski.com/
 - [facebookarchive/AsyncDisplayKit](https://github.com/facebookarchive/AsyncDisplayKit)Smooth asynchronous user interfaces for iOS apps. http://asyncdisplaykit.org
+- [maxep/MXParallaxHeader](https://github.com/maxep/MXParallaxHeader) Simple parallax header for UIScrollView
 
 ## Cache
 - [ibireme/YYCache](https://github.com/ibireme/YYCache) High performance cache framework for iOS.
