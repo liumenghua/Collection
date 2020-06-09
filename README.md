@@ -55,6 +55,7 @@
 
 ## runtime
 - [jasenhuang/NSObjectSafe](https://github.com/jasenhuang/NSObjectSafe) Swizzle commonly used function of Foundation container to prevent nil crash
+- [DeveloperErenLiu/RuntimePDF](https://github.com/DeveloperErenLiu/RuntimePDF) Runtime系列文章总字数为10w+
 
 ## Keyboard
 - [hackiftekhar/IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.
