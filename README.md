@@ -60,6 +60,9 @@
 ## Keyboard
 - [hackiftekhar/IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.
 
+## Foundation
+- [mattt/TTTRandomizedEnumerator](https://github.com/mattt/TTTRandomizedEnumerator) Mix things up with your collection classes with style and class (well, a category, but you get the idea).
+
 ## UIKit
 - [devxoul/UITextView-Placeholder] A missing placeholder for UITextView
 - [CRAnimation/CRBoxInputView](https://github.com/CRAnimation/CRBoxInputView) Verify code input view. Support security type for password.短信验证码输入框，支持密文模式
