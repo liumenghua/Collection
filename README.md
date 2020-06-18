@@ -45,6 +45,9 @@
 - [Mantle/Mantle](https://github.com/Mantle/Mantle) Model framework for Cocoa and Cocoa Touch
 - [krzysztofzablocki/IconOverlaying](https://github.com/krzysztofzablocki/IconOverlaying) Build informations on top of your app icon. http://twitter.com/merowing_
 
+## Clang
+- [macmade/ClangKit](https://github.com/macmade/ClangKit) ClangKit provides an Objective-C frontend to LibClang. Source tokenization, diagnostics and fix-its are actually implemented.
+
 ## Debug
 - [didi/echo](https://github.com/didi/echo) Echo是一款桌面端调试工具，旨在提高客户端的研发调试效率
 - [didi/DoraemonKit](https://github.com/didi/DoraemonKit) A full-featured App (iOS & Android) development assistant. You deserve it. 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。https://www.dokit.cn/
