@@ -109,6 +109,7 @@
 
 # Ruby
 - [ruby/rdoc](https://github.com/ruby/rdoc) RDoc produces HTML and online documentation for Ruby projects. https://ruby.github.io/rdoc/
+- [thoughtbot/guides](https://github.com/thoughtbot/guides) A guide for programming in style. https://thoughtbot.com/playbook
 
 ------------------------------------------------
 # Blog
