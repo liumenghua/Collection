@@ -108,6 +108,7 @@
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目 https://hellogithub.com/
 
 # Ruby
+- [dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks#blogs) Ruby and Ruby on Rails bookmarks collection
 - [ruby/rdoc](https://github.com/ruby/rdoc) RDoc produces HTML and online documentation for Ruby projects. https://ruby.github.io/rdoc/
 - [thoughtbot/guides](https://github.com/thoughtbot/guides) A guide for programming in style. https://thoughtbot.com/playbook
 - [sds/overcommit](https://github.com/sds/overcommit) A fully configurable and extendable Git hook manager
