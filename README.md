@@ -54,6 +54,7 @@
 - [didi/DoraemonKit](https://github.com/didi/DoraemonKit) A full-featured App (iOS & Android) development assistant. You deserve it. 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。https://www.dokit.cn/
 - [TalkingData/YourView](https://github.com/TalkingData/YourView) YourView is a desktop App in MacOS based on Apple SceneKit. You may use it to view iOS App's view hierarchy 3D.
 - [Tencent/MLeaksFinder](https://github.com/Tencent/MLeaksFinder) Find memory leaks in your iOS app at develop time.
+- [music4kid/PLeakSniffer](https://github.com/music4kid/PLeakSniffer) Detect memory leaks for your iOS project automatically. http://mrpeak.cn
 - [facebook/FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) iOS library to help detecting retain cycles in runtime.
 - [johnno1962/injectionforxcode](https://github.com/johnno1962/injectionforxcode) Runtime Code Injection for Objective-C & Swift
 - [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) A fast & simple, yet powerful & flexible logging framework for Mac and iOS https://cocoalumberjack.github.io/
