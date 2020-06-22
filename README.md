@@ -84,6 +84,7 @@
 
 ## Decrypting
 - [KJCracks/Clutch](https://github.com/KJCracks/Clutch) Fast iOS executable dumper
+- [pinterest/PINCache](https://github.com/pinterest/PINCache) Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X
 
 ## Interview
 - [colourful987/bytedance-alibaba-interview](https://github.com/colourful987/bytedance-alibaba-interview) 阿里、字节 一套高效的iOS面试题解答
