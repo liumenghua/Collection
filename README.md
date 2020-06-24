@@ -115,6 +115,7 @@
 - [thoughtbot/guides](https://github.com/thoughtbot/guides) A guide for programming in style. https://thoughtbot.com/playbook
 - [sds/overcommit](https://github.com/sds/overcommit) A fully configurable and extendable Git hook manager
 - [Homebrew/brew](https://github.com/Homebrew/brew) 🍺 The missing package manager for macOS (or Linux)
+- [icalendar/icalendar](https://github.com/icalendar/icalendar) icalendar.rb main repository
 
 ------------------------------------------------
 # Blog
