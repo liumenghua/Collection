@@ -32,6 +32,7 @@
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects http://awesomeios.com
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) 📱 Collaborative List of Open-Source iOS Apps
 - [Tim9Liu9/TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS#%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AAIOS%E5%BC%80%E5%8F%91) iOS开发常用三方库、插件、知名博客等等
+- [eleme/Stinger](https://github.com/eleme/Stinger) Stinger is a high-efficiency library with great compatibility, for aop in Objective-C, using libffi instead of Objective-C message forwarding. It is 20+ times faster than the Aspects, from message-sending to Aspect-oriented code ends.
 
 - [Tencent/OOMDetector](https://github.com/Tencent/OOMDetector) OOMDetector is a memory monitoring component for iOS which provides you with OOM monitoring, memory allocation monitoring, memory leak detection and other functions.
 - [mattt/Ono](https://github.com/mattt/Ono) A sensible way to deal with XML & HTML for iOS & macOS
