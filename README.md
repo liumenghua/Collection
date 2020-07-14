@@ -106,6 +106,10 @@
 - [evnaz/ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) A simple side menu for iOS written in Swift. 
 - [steipete/InterposeKit](https://github.com/steipete/InterposeKit) A modern library to swizzle elegantly in Swift. https://interposekit.com/
 
+## SwiftUI
+
+- [Dimillian/MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) SwiftUI & Combine app using MovieDB API. With a custom Flux (Redux) implementation.
+
 # Just funning and useful
 - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)程序员应该访问的最佳网站中文版
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目 https://hellogithub.com/
