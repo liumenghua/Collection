@@ -92,6 +92,7 @@
 
 ## Swift
 - [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
+- [jVirus/ios-learning-materials](https://github.com/jVirus/ios-learning-materials) 📚Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS [and Apple Platforms].
 - [SnapKit/SnapKit](https://github.com/SnapKit/SnapKit) A Swift Autolayout DSL for iOS & OS X http://snapkit.io
 - [pointfreeco/swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testing) 📸 Delightful Swift snapshot testing. https://www.pointfree.co/episodes/ep4…
 - [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. https://www.pointfree.co/
@@ -109,6 +110,7 @@
 ## SwiftUI
 
 - [Dimillian/MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) SwiftUI & Combine app using MovieDB API. With a custom Flux (Redux) implementation.
+- [jVirus/swiftui-2048](https://github.com/jVirus/swiftui-2048) 🎲 100% SwiftUI 2.0, classic 2048 game [SwiftUI 2.0, iOS 14.0+, iPadOS 14.0+, Swift 5.3].
 
 # Just funning and useful
 - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)程序员应该访问的最佳网站中文版
