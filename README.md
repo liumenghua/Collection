@@ -48,6 +48,7 @@
 - [krzysztofzablocki/IconOverlaying](https://github.com/krzysztofzablocki/IconOverlaying) Build informations on top of your app icon. http://twitter.com/merowing_
 - [huanxsd/LinkMap](https://github.com/huanxsd/LinkMap) 检查每个类占用空间大小工具
 - [Cocoanetics/DTCoreText](https://github.com/Cocoanetics/DTCoreText) Methods to allow using HTML code with CoreText
+- [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) Firefox for iOS
 
 ## Clang
 - [macmade/ClangKit](https://github.com/macmade/ClangKit) ClangKit provides an Objective-C frontend to LibClang. Source tokenization, diagnostics and fix-its are actually implemented.
