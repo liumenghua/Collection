@@ -109,6 +109,7 @@
 - [willowtreeapps/spruce-ios](https://github.com/willowtreeapps/spruce-ios) Swift library for choreographing animations on the screen.
 - [evnaz/ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) A simple side menu for iOS written in Swift. 
 - [steipete/InterposeKit](https://github.com/steipete/InterposeKit) A modern library to swizzle elegantly in Swift. https://interposekit.com/
+- [airbnb/HorizonCalendar](https://github.com/airbnb/HorizonCalendar) A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.
 
 ## SwiftUI
 
