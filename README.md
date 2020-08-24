@@ -111,6 +111,7 @@
 - [steipete/InterposeKit](https://github.com/steipete/InterposeKit) A modern library to swizzle elegantly in Swift. https://interposekit.com/
 - [airbnb/HorizonCalendar](https://github.com/airbnb/HorizonCalendar) A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.
 - [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) Elegant HTTP Networking in Swift
+- [stephencelis/SQLite.swift](https://github.com/stephencelis/SQLite.swift) A type-safe, Swift-language layer over SQLite3.
 
 ## SwiftUI
 
