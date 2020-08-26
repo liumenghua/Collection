@@ -115,6 +115,7 @@
 
 ## SwiftUI
 
+- [Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI) `SwiftUI` Framework Learning and Usage Guide. 🚀
 - [Dimillian/MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) SwiftUI & Combine app using MovieDB API. With a custom Flux (Redux) implementation.
 - [jVirus/swiftui-2048](https://github.com/jVirus/swiftui-2048) 🎲 100% SwiftUI 2.0, classic 2048 game [SwiftUI 2.0, iOS 14.0+, iPadOS 14.0+, Swift 5.3].
 
